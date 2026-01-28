@@ -1,4 +1,4 @@
-# find index of an element in an array with index() method
+# find index of an element in an array with index() method .
 
 
 from array import *
