@@ -15,7 +15,7 @@ for i in range(len(abc)):
     print(abc[i],end=" ")
 
 
-#input from user in array
+#input from user in  array
 
 from array import *
 arr = array('i', [])
