@@ -1,4 +1,4 @@
-#in singly linked list add nodein begin and display the list
+#in singly linked list add nodein begin and display the list .
 
 class node:
     def __init__(self, info, next=None):
